@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299774079147",
+    "project_id": "password-manager-badd2",
+    "storage_bucket": "password-manager-badd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299774079147:android:70eacbce69bbb4bb21c7ee",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299774079147-9nsopbl6si9vkhvs2j4r982otc3srpq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhAwMExaZmuSMtp3Y4kiiMw6JG7t4agk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299774079147-9nsopbl6si9vkhvs2j4r982otc3srpq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
